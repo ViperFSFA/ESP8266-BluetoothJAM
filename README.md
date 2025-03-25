@@ -1,4 +1,4 @@
-#ESP32 Bluetooth Jammer
+#ESP8266 Bluetooth Jammer
 Vipers code for Jamming Bluetooth with the NRF24l01 and the ESP8266
 
 jam Bluetooth with the NRF24 as it creates a noise overload, disturbing the connection between bluetooth devices (like speakers, earbuds, ETC) This code is ONLY meant for ethical use in a controlled environment. !UNETHICAL USE IS ILLIGAL!
